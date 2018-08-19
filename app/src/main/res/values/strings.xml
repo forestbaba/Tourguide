@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="overview">Overview</string>
+    <string name="openning_time">Opening time</string>
+    <string name="getting_there">Getting There</string>
+    <string name="do_you_know">Do you Know</string>
+    <string name="attractions">Attractions Nearby</string>
+</resources>
